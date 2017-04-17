@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/netlify/google https://www.google.com/ 302
+/netlify/:anything https://www.google.com/search?=:anything 302
