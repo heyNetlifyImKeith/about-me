@@ -7,7 +7,7 @@ title: Keith Underwood
 email:  keithunderwood510@gmail.com
 description: A support engineer
 url: # the base hostname & protocol for your site
-
+include: ["_redirects"]
 
 #
 ###################################
